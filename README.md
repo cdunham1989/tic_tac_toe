@@ -42,5 +42,5 @@ Then to reference the coordinates of each cell I be able to locate them as they 
 
 Lastly my domain model for this tech test will be as follows:
 
-! [domain model](/assets/domain_model.png "Domain Model"
+![domain model](/assets/domain_model.png "Domain Model"
 )
