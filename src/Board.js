@@ -1,6 +1,6 @@
 (function(exports) {
 
-    function Baord() {
+    function Board() {
 
     }
 
