@@ -15,8 +15,12 @@ describe('Game', function() {
         expect(game.board).toBeDefined();
     });
 
+    it('should create a new board class', function() {
+        expect(game.board instanceof(Board)).toBe(true);
+    });
+
     it('should have two players associated with it', function() {
         expect(game.player1).toBeDefined();
         expect(game.player2).toBeDefined();
-    })
+    });
 });
